@@ -1,0 +1,8 @@
+black
+isort
+flake8
+abstract-singleton
+wheel
+setuptools
+build
+pymysql
